@@ -1,0 +1,104 @@
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">PregaHelp</string>
+
+    <!-- Category name for phrases [CHAR LIMIT=20] -->
+    <string name="news_feed">News Feed</string>
+
+    <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
+    <string name="book_marks">Bookmarks</string>
+
+    <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
+    <string name="category_numbers">Numbers</string>
+
+    <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
+    <string name="new_questions">New Questions</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Log In</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="invalid_email">Email invalid</string>
+    <string name="no_password">Enter Password</string>
+    <string name="confirm_password_does_not_match">Passwords does not match</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="does_not_match">Email and Password does not match</string>
+    <string name="prompt_confirm_password"> Confirm Password</string>
+    <string name="minimum_password">Password too short</string>
+    <string name="action_sign_up">Sign Up</string>
+    <string name="phone_hint">Phone Number</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="btn_back">Go to Login Page</string>
+    <string name="auth_failed">Authentication failed</string>
+    <string name="name">Name</string>
+    <string name="street_name">Street (Optional)</string>
+    <string name="invalid_phone">Enter Number</string>
+    <string name="invalid_name">Enter Name</string>
+    <string name="invalid_state">Enter state</string>
+    <string name="invalid_pincode">Enter pincode</string>
+    <string name="invalid_type">Enter type</string>
+    <string name="action_sign_out">Sign Out</string>
+    <string name="add_details">Add Details</string>
+    <string name="state_name">State</string>
+    <string name="occupation_type">Doctor OR Hospital</string>
+    <string name="pincode_name">Pin Code</string>
+    <string name="facebook_application_id" translatable="false">YOUR_APP_ID</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="search_hint">Search Pincode</string>
+    <string name="facebook_login_protocol_scheme" translatable="false">fbYOUR_APP_ID</string>
+    <string name="row_1_1">• Porridge made with milk flavoured •Glass of apple juice</string>
+
+    <string name="row_1_2">• Smoked chicken and avocado salad •Banana</string>
+
+    <string name="row_1_3">• Small fruit or cheese scone</string>
+
+    <string name="row_1_4">• Chicken cacciatore with brown rice</string>
+
+    <string name="row_2_1">• Bran flakes with semiskimmed milk and sliced banana •Glass of cranberry juice</string>
+
+    <string name="row_2_2">• Broccoli and pea soup with a crusty roll •Apple</string>
+
+    <string name="row_2_3">• Carrot sticks and hummus dip </string>
+
+    <string name="row_2_4">• Healthier sausage and apple casserole </string>
+
+    <string name="row_3_1">• Porridge made with milk flavoured •Green or herbal tea</string>
+
+    <string name="row_3_2">• Feta salad couscous •Papaya </string>
+
+    <string name="row_3_3">• Slice of banana bread </string>
+
+    <string name="row_3_4">• Creamy haddock and salmon pie with asparagus </string>
+
+    <string name="row_4_1">• Wholegrain toast spread with peanut butter •Yoghurt drink</string>
+
+    <string name="row_4_2">• Cranberry and soft cheese wrap with watercress •Slice of melon </string>
+
+    <string name="row_4_3">• Breadsticks with low- fat soft cheese dip </string>
+
+    <string name="row_4_4">• Lamb chops with new potatoes, broccoli and peas</string>
+
+    <string name="row_5_1">• 2 toasted crumpets with peanut butter •Fruit smoothie </string>
+
+    <string name="row_5_2">• Baked potato with cottage cheese and cherry tomatoes,chopped cucumber and spring onions •Slice of melon </string>
+
+    <string name="row_5_3">• Vegetable sticks with soft cheese dip</string>
+
+    <string name="row_5_4">• Brown rice chicken and mushroom risotto </string>
+
+    <string name="title_activity_main5">Main5Activity</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="section_format">Hello World from section: %1$d</string>
+</resources>
+

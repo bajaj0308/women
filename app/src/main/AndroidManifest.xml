@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.meghabajaj.womanhackathon">
+
+    <!-- <uses-permission-sdk-23 android:name="android.permission.ACCESS_WIFI_STATE"/> -->
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/icon_app"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Sign_Up_Activity" />
+        <activity
+            android:name=".Helpline_Activity"
+            android:label="Discussion Forum"
+            />
+        <activity android:name=".searchActivity" />
+        <activity android:name=".ForgetPasswordActivity" />
+        <activity android:name=".User_data" />
+        <activity android:name=".search_user" />
+        <activity android:name=".HomeActivity" />
+        <activity android:name=".Main2Activity" />
+        <activity android:name=".Main3Activity" />
+        <activity android:name=".Main4Activity" />
+        <activity
+            android:name=".Main5Activity"
+            android:label="@string/title_activity_main5"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".questionAnswer"></activity>
+    </application>
+
+</manifest>

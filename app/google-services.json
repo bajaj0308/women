@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "622606610702",
+    "firebase_url": "https://women-hackathon.firebaseio.com",
+    "project_id": "women-hackathon",
+    "storage_bucket": "women-hackathon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622606610702:android:267a42747be61fa5",
+        "android_client_info": {
+          "package_name": "com.example.meghabajaj.womanhackathon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "622606610702-gri51ho0uscicl7a1jgu0jttn747lp69.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.meghabajaj.womanhackathon",
+            "certificate_hash": "6d0500c3bf4e24cb58a26f16d59b3c0017a50d57"
+          }
+        },
+        {
+          "client_id": "622606610702-epqtgm8srcuikd5qrj9fcf8em9fs0lov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkrqUxcEmtzJKgnPfcMtoQnagfSi6dDPQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "622606610702-epqtgm8srcuikd5qrj9fcf8em9fs0lov.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

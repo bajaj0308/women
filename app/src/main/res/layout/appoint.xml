@@ -1,0 +1,121 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.meghabajaj.womanhackathon.Main5Activity">
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+    <TextView
+        android:id="@+id/label2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingBottom="10dp"
+        android:text="FIRST TRIMESTER DOCTOR APPOINTMENTS"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:textSize="15dp"/>
+    <TextView
+        android:id="@+id/label3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="It is good to schedule your first antenatal check-up as soon as you find out that you are expecting."
+        android:paddingBottom="10dp"/>
+    <TextView
+        android:id="@+id/label4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Your doctor will usually:
+
+ Record when you had your last menstrual cycle. This will help to know which week of pregnancy you are in.
+ Measure your weight and record it. Gradual and steady weight gain shows that your baby is growing well.
+ Many doctors calculate your Body Mass Index (BMI) to keep a track on your weight.
+ Check your blood pressure.
+ Discuss your diet. Your doctor might recommend foods that are important for your first trimester.
+ Schedule your ultrasound scans and blood tests. This is done to check if your pregnancy is proceeding well." />
+    <TextView
+        android:id="@+id/label5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+        android:text="SECOND TRIMESTER DOCTOR APPOINTMENTS"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:textSize="15dp"/>
+    <TextView
+        android:id="@+id/label6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="During your second trimester, which is between 14 weeks and 27 weeks of your pregnancy, you'll typically see your gynaecologist once a month or every four weeks. If you have a specific condition or complications, then your doctor might schedule more frequent check-ups."
+        android:paddingBottom="10dp"/>
+    <TextView
+        android:id="@+id/label7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Your gynaecologist will usually:
+         " />
+    <TextView
+        android:id="@+id/label8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Gather Information"
+        android:textColor="#000000"
+        android:textStyle="bold"/>
+            <TextView
+                android:id="@+id/label9"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text="Your doctor will ask how you are feeling and hear your concerns. She will review your test reports and earlier appointment notes. She will follow up on issues that were raised at your previous prenatal visit."/>
+    <TextView
+        android:id="@+id/label10"
+        android:text="Record your weight"
+        android:textColor="#000000"
+        android:textStyle="bold"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:padding="10dp"
+        android:text="Gaining an appropriate amount of weight will boost your chances of having a healthy pregnancy and baby. How much you should gain depends on your pre-pregnancy height and weight, as well as whether you're carrying twins or more. "
+        android:layout_height="wrap_content" />
+            <TextView
+                android:text="Listen to your baby's heartbeat "
+                android:textColor="#000000"
+                android:textStyle="bold"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:padding="10dp"
+                android:text="Checking your baby's heartbeat will become a regular part of every antenatal visit. This is usually done with a Doppler machine and is a good way of reassuring you that your baby is well."
+                android:layout_height="wrap_content" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="THIRD TRIMESTER DOCTOR APPOINTMENTS"
+                android:textStyle="bold"
+                android:textColor="#000000"
+                android:textSize="15dp"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:padding="10dp"
+                android:text="Your doctor will start by asking how you're feeling. She will follow up on any issues raised at your last appointment, and review the results of any tests you've had since then. She'll ask whether you've had any contractions, swelling, headaches, or have any other concerns. She may also question you about your baby's movements.
+As in the second trimester, you'll be weighed and your blood pressure will be taken.
+Your doctor will check your baby's heartbeat and feel your belly to estimate your baby's size. Your doctor will feel your abdomen to get a sense of the size of your growing uterus and baby. She may also measure the distance between your pubic bone and the top of your uterus (fundal height).
+Internal examination. Your doctor will do an internal examination around 36 weeks of your pregnancy. After this time, the number of internal checks may increase to once a week. These are done to check the softening and dilation of your cervix. "
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

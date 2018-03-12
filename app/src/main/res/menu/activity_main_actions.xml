@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <!-- Search Widget -->
+    <item android:id="@+id/action_search"
+        android:icon="@drawable/ic_action_search"
+        android:title="PregaHelp"
+        android:orderInCategory="100"
+        app:showAsAction="collapseActionView|always"/>
+        <!--android:actionViewClass="android.widget.SearchView"-->
+
+    <!-- Refresh -->
+    <item android:id="@+id/action_refresh"
+        android:icon="@drawable/ic_action_refresh"
+        android:title="@string/action_refresh"
+        app:showAsAction="never" />
+    <!-- Sign Out -->
+    <item android:id="@+id/sign_out"
+        android:title="@string/action_sign_out"
+        app:showAsAction="never"
+        android:visible="false"/>
+    <!-- Add Details -->
+    <item android:id="@+id/add_details"
+        android:title="@string/add_details"
+        app:showAsAction="never"
+        android:visible="false"/>
+    <!--Add Question Answer-->
+    <item android:id="@+id/add_question_answer"
+        android:title="Add Questions"
+        app:showAsAction="never"
+        android:visible="false"
+    />
+    <!--&lt;!&ndash; Help &ndash;&gt;-->
+    <!--<item android:id="@+id/action_help"-->
+        <!--android:icon="@drawable/ic_action_help"-->
+        <!--android:title="@string/action_help"-->
+        <!--app:showAsAction="never"/>-->
+
+    <!--&lt;!&ndash; Check updates &ndash;&gt;-->
+    <!--<item android:id="@+id/action_check_updates"-->
+        <!--android:icon="@drawable/ic_action_refresh"-->
+        <!--android:title="@string/action_check_updates"-->
+        <!--app:showAsAction="never" />-->
+</menu>
